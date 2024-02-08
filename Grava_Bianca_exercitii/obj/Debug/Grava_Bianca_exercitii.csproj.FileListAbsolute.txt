@@ -1,0 +1,40 @@
+C:\Users\C\source\repos\Grava_Bianca_exercitii\Grava_Bianca_exercitii\obj\Debug\Grava_Bianca_exercitii.csprojAssemblyReference.cache
+C:\Users\C\source\repos\Grava_Bianca_exercitii\Grava_Bianca_exercitii\obj\Debug\Grava_Bianca_exercitii.Form1.resources
+C:\Users\C\source\repos\Grava_Bianca_exercitii\Grava_Bianca_exercitii\obj\Debug\Grava_Bianca_exercitii.Properties.Resources.resources
+C:\Users\C\source\repos\Grava_Bianca_exercitii\Grava_Bianca_exercitii\obj\Debug\Grava_Bianca_exercitii.csproj.GenerateResource.cache
+C:\Users\C\source\repos\Grava_Bianca_exercitii\Grava_Bianca_exercitii\obj\Debug\Grava_Bianca_exercitii.csproj.CoreCompileInputs.cache
+C:\Users\C\source\repos\Grava_Bianca_exercitii\Grava_Bianca_exercitii\bin\Debug\Grava_Bianca_exercitii.exe.config
+C:\Users\C\source\repos\Grava_Bianca_exercitii\Grava_Bianca_exercitii\bin\Debug\Grava_Bianca_exercitii.exe
+C:\Users\C\source\repos\Grava_Bianca_exercitii\Grava_Bianca_exercitii\bin\Debug\Grava_Bianca_exercitii.pdb
+C:\Users\C\source\repos\Grava_Bianca_exercitii\Grava_Bianca_exercitii\obj\Debug\Grava_Bianca_exercitii.exe
+C:\Users\C\source\repos\Grava_Bianca_exercitii\Grava_Bianca_exercitii\obj\Debug\Grava_Bianca_exercitii.pdb
+C:\Users\C\source\repos\Grava_Bianca_exercitii\Grava_Bianca_exercitii\obj\Debug\Grava_Bianca_exercitii.Form2.resources
+C:\Users\C\source\repos\Grava_Bianca_exercitii\Grava_Bianca_exercitii\obj\Debug\Grava_Bianca_exercitii.Form3.resources
+C:\Users\C\source\repos\Grava_Bianca_exercitii\Grava_Bianca_exercitii\obj\Debug\Grava_Bianca_exercitii.Form4.resources
+C:\Users\C\source\repos\Grava_Bianca_exercitii\Grava_Bianca_exercitii\obj\Debug\Grava_Bianca_exercitii.Form5.resources
+E:\Bianca\Materii scoala\Informatica\C#\Grava_Bianca_exercitii\Grava_Bianca_exercitii\Grava_Bianca_exercitii\bin\Debug\Grava_Bianca_exercitii.exe.config
+E:\Bianca\Materii scoala\Informatica\C#\Grava_Bianca_exercitii\Grava_Bianca_exercitii\Grava_Bianca_exercitii\bin\Debug\Grava_Bianca_exercitii.exe
+E:\Bianca\Materii scoala\Informatica\C#\Grava_Bianca_exercitii\Grava_Bianca_exercitii\Grava_Bianca_exercitii\bin\Debug\Grava_Bianca_exercitii.pdb
+E:\Bianca\Materii scoala\Informatica\C#\Grava_Bianca_exercitii\Grava_Bianca_exercitii\Grava_Bianca_exercitii\obj\Debug\Grava_Bianca_exercitii.csprojResolveAssemblyReference.cache
+E:\Bianca\Materii scoala\Informatica\C#\Grava_Bianca_exercitii\Grava_Bianca_exercitii\Grava_Bianca_exercitii\obj\Debug\Grava_Bianca_exercitii.Form1.resources
+E:\Bianca\Materii scoala\Informatica\C#\Grava_Bianca_exercitii\Grava_Bianca_exercitii\Grava_Bianca_exercitii\obj\Debug\Grava_Bianca_exercitii.Form2.resources
+E:\Bianca\Materii scoala\Informatica\C#\Grava_Bianca_exercitii\Grava_Bianca_exercitii\Grava_Bianca_exercitii\obj\Debug\Grava_Bianca_exercitii.Form3.resources
+E:\Bianca\Materii scoala\Informatica\C#\Grava_Bianca_exercitii\Grava_Bianca_exercitii\Grava_Bianca_exercitii\obj\Debug\Grava_Bianca_exercitii.Form4.resources
+E:\Bianca\Materii scoala\Informatica\C#\Grava_Bianca_exercitii\Grava_Bianca_exercitii\Grava_Bianca_exercitii\obj\Debug\Grava_Bianca_exercitii.Form5.resources
+E:\Bianca\Materii scoala\Informatica\C#\Grava_Bianca_exercitii\Grava_Bianca_exercitii\Grava_Bianca_exercitii\obj\Debug\Grava_Bianca_exercitii.Properties.Resources.resources
+E:\Bianca\Materii scoala\Informatica\C#\Grava_Bianca_exercitii\Grava_Bianca_exercitii\Grava_Bianca_exercitii\obj\Debug\Grava_Bianca_exercitii.csproj.GenerateResource.Cache
+E:\Bianca\Materii scoala\Informatica\C#\Grava_Bianca_exercitii\Grava_Bianca_exercitii\Grava_Bianca_exercitii\obj\Debug\Grava_Bianca_exercitii.exe
+E:\Bianca\Materii scoala\Informatica\C#\Grava_Bianca_exercitii\Grava_Bianca_exercitii\Grava_Bianca_exercitii\obj\Debug\Grava_Bianca_exercitii.pdb
+E:\Bianca\Materii scoala\C#\Grava_Bianca_exercitii\Grava_Bianca_exercitii\bin\Debug\Grava_Bianca_exercitii.exe.config
+E:\Bianca\Materii scoala\C#\Grava_Bianca_exercitii\Grava_Bianca_exercitii\bin\Debug\Grava_Bianca_exercitii.exe
+E:\Bianca\Materii scoala\C#\Grava_Bianca_exercitii\Grava_Bianca_exercitii\bin\Debug\Grava_Bianca_exercitii.pdb
+E:\Bianca\Materii scoala\C#\Grava_Bianca_exercitii\Grava_Bianca_exercitii\obj\Debug\Grava_Bianca_exercitii.csprojResolveAssemblyReference.cache
+E:\Bianca\Materii scoala\C#\Grava_Bianca_exercitii\Grava_Bianca_exercitii\obj\Debug\Grava_Bianca_exercitii.Form1.resources
+E:\Bianca\Materii scoala\C#\Grava_Bianca_exercitii\Grava_Bianca_exercitii\obj\Debug\Grava_Bianca_exercitii.Form2.resources
+E:\Bianca\Materii scoala\C#\Grava_Bianca_exercitii\Grava_Bianca_exercitii\obj\Debug\Grava_Bianca_exercitii.Form3.resources
+E:\Bianca\Materii scoala\C#\Grava_Bianca_exercitii\Grava_Bianca_exercitii\obj\Debug\Grava_Bianca_exercitii.Form4.resources
+E:\Bianca\Materii scoala\C#\Grava_Bianca_exercitii\Grava_Bianca_exercitii\obj\Debug\Grava_Bianca_exercitii.Form5.resources
+E:\Bianca\Materii scoala\C#\Grava_Bianca_exercitii\Grava_Bianca_exercitii\obj\Debug\Grava_Bianca_exercitii.Properties.Resources.resources
+E:\Bianca\Materii scoala\C#\Grava_Bianca_exercitii\Grava_Bianca_exercitii\obj\Debug\Grava_Bianca_exercitii.csproj.GenerateResource.Cache
+E:\Bianca\Materii scoala\C#\Grava_Bianca_exercitii\Grava_Bianca_exercitii\obj\Debug\Grava_Bianca_exercitii.exe
+E:\Bianca\Materii scoala\C#\Grava_Bianca_exercitii\Grava_Bianca_exercitii\obj\Debug\Grava_Bianca_exercitii.pdb
